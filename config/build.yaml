@@ -1,0 +1,15 @@
+include:
+  - board: nice_nano_v2
+    shield: lily58_left
+    artifact-name: lily58_left
+  - board: nice_nano_v2
+    shield: lily58_right
+    artifact-name: lily58_right
+
+# Для puchi!ble раскомментируйте и закомментируйте nice_nano выше:
+# - board: puchi_ble_nrf52840_zmk
+#   shield: lily58_left
+#   artifact-name: lily58_left
+# - board: puchi_ble_nrf52840_zmk
+#   shield: lily58_right
+#   artifact-name: lily58_right
